@@ -1,0 +1,18 @@
+{
+  "name": "graphqlapi",
+  "version": "1.0.0",
+  "description": "my 1st graphql api ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "chandru",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.0.1",
+    "nanoid": "^3.1.30",
+    "nodemon": "^2.0.15"
+  }
+}
